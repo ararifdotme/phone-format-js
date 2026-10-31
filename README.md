@@ -6,7 +6,7 @@
 
 **Webpage**
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ararif724/phone-format-js/phone-format.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ararifdotme/phone-format-js/phone-format.js"></script>
 ```
 
 **Node JS**
@@ -35,7 +35,7 @@ npm install @ararif/phone-format-js
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>phone-format-js</title>
-		<script src="https://cdn.jsdelivr.net/gh/ararif724/phone-format-js/phone-format.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/ararifdotme/phone-format-js/phone-format.js"></script>
 	</head>
 	<body>
 		<input id="phone" type="phone" name="phone" />

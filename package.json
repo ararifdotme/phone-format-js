@@ -18,10 +18,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ararif724/phone-format-js.git"
+		"url": "git+https://github.com/ararifdotme/phone-format-js.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ararif724/phone-format-js/issues"
+		"url": "https://github.com/ararifdotme/phone-format-js/issues"
 	},
-	"homepage": "https://github.com/ararif724/phone-format-js#readme"
+	"homepage": "https://github.com/ararifdotme/phone-format-js#readme"
 }
